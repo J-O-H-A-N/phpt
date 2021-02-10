@@ -1,4 +1,6 @@
 <?php
-    echo "Hello World!"
+    echo "Hello World!";
+    $var="moshi moshi";
+    echo $var;
 
 ?>
